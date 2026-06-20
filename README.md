@@ -1,9 +1,6 @@
 <h1 align="center">Hi I'm Salmaan</h1>
-<h3 align="center">A front end web developer from Leicester</h3>
 
-- 🔭 My recent project [Spotify Searcher](https://spotify-searcher-mocha.vercel.app/)
-
-- 👨‍💻 View my Portfolio [https://portfolio-alpha-eight-43.vercel.app/]
+-For fun
 
 - 📫 How to reach me **salmaan.mahamoud@gmail.com**
 
